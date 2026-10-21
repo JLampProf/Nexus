@@ -1,0 +1,42 @@
+export const networkNodes = [
+  {
+    id: "node-1",
+    name: "Primary Server",
+    type: "server",
+    status: "online",
+    position: [0, 0, 0],
+    load: 42,
+  },
+  {
+    id: "node-2",
+    name: "Database Cluster",
+    type: "database",
+    status: "online",
+    position: [-3, 1, -1],
+    load: 68,
+  },
+  {
+    id: "node-3",
+    name: "API Gateway",
+    type: "gateway",
+    status: "online",
+    position: [3, 1, -1],
+    load: 31,
+  },
+  {
+    id: "node-4",
+    name: "Storage Node",
+    type: "storage",
+    status: "warning",
+    position: [-2, -2, 1],
+    load: 84,
+  },
+  {
+    id: "node-5",
+    name: "Analytics Engine",
+    type: "server",
+    status: "online",
+    position: [2, -2, 1],
+    load: 57,
+  },
+];
