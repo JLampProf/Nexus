@@ -5,12 +5,16 @@ Nexus 3D is an interactive 3D network visualisation dashboard built with React a
 The project combines my background in 3D animation with my experience in front-end and full-stack web development.
 
 Screenshots
+The Main Page
 1. ![MainPage](Screenshots/MainPage.png)
 
+Selecting A Node
 2. ![OneNodeSelected](Screenshots/NodeSelectionOne.png)
 
+Selecting A Different Node
 3. ![NodeTwoSelected](Screenshots/NodeSelectionTwo.png)
 
+Moving the 3D Scene
 4. ![Moved3DScene](Screenshots/3DSceneMoved.png)
 
 ## Features
