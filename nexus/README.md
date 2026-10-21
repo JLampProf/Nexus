@@ -49,13 +49,13 @@ Moving the 3D Scene
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/JLampProf/Nexus
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd nexus-3d
+cd nexus
 ```
 
 Install dependencies:
