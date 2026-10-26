@@ -36,27 +36,40 @@ Node.js
 npm
 Git
 Installation
+
 Clone the repository:
-
+```bash
 git clone https://github.com/JLampProf/Nexus
+```
+
 Navigate into the project directory:
-
+```bash
 cd nexus
+```
+
 Install dependencies:
-
+```bash
 npm install
-Start the development server:
+```
 
+Start the development server:
+```bash
 npm run dev
+```
+
 Open the local URL displayed in the terminal to view the application.
 
 Production Build
 To create a production build, run:
-
+```bash
 npm run build
-To preview the production build locally:
+```
 
+To preview the production build locally:
+```bash
 npm run preview
+```
+
 Project Structure
 src/
 ├── components/
